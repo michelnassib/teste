@@ -1,5 +1,4 @@
-﻿
--- Function: polis.fn_auditoria()
+﻿-- Function: polis.fn_auditoria()
 
 -- DROP FUNCTION polis.fn_auditoria();
 
